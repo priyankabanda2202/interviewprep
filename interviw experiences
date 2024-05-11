@@ -1,0 +1,62 @@
+#Evoke technologies
+
+what are max pooling layers in cnn?** 
+
+    ans:
+    when added to the cnn reduces the dimensionaliy of images by reducing the no of pixels in the output from the previous convolutional layer
+
+
+what are different tyes of pooling layers in cnn
+    There are two types of widely used pooling in CNN layer:
+
+    Max Pooling
+    Average Pooling
+    
+why activayion functiosn are used?***
+what are diffenr tyes of activation function?
+working of the image captioner project
+what is the backward propagation inn lstm
+how are weigtes are adjusted in the nodes
+hw is memory saving done in the llm and context saving is done in the llms?
+working of the vector database
+what is normalisation?
+what is the number of layers you used in your cnn project?
+
+wt are strides in the cnn:
+
+
+
+
+
+another interview:
+1.fine tuneing of llms
+what you did
+explain project on rag
+which vector embeddings hav eyou used for the rag
+how do yu the peprocessing steps for th image data,text dta
+how did you make sure the gpt is gettng the correct resultwhat are the parameters passed like temps,penslaity,etc functions in the gpt call and also what are various oters
+practical implementation of rag
+
+one shot an dzero shot inferences?
+
+
+What is an activation function and why use them? 
+The activation function decides whether a neuron should be activated or not by calculating the weighted sum and further adding bias to it. The purpose of the activation function is to introduce non-linearity into the output of a neuron. 
+
+Explanation: We know, the neural network has neurons that work in correspondence with weight, bias, and their respective activation function. In a neural network, we would update the weights and biases of the neurons on the basis of the error at the output. This process is known as back-propagation. Activation functions make the back-propagation possible since the gradients are supplied along with the error to update the weights and biases. 
+how th backpropagaton wors in details,how th eweigts are calclated at each neuron in nn
+how the fectching is happening the rag systems
+how th embeddings are one  in he rag word embeddings
+
+whic is bettr cosine or euclidean and why
+
+
+
+
+Vlaue labs:
+#time series forecasting model(arima etc) and write aprogram for multi class classifiaction model using the deep learning  model take any images or data
+
+what are the parameters in the image data.(resolution,pixel,contrast,brightness etc)
+
+
+

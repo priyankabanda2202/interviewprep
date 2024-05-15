@@ -1,0 +1,75 @@
+ALL ML algorithms:
+
+The Most favourite algorithms :
+* Machine learning basics
+* Resume-Based Machine Learning Questions
+* Machine Learning Coding Questions
+* Applied Machine Learning Problems
+
+* Supervised learning algorithms: linear and logistic regression, and the k nearest neighbors.
+* Unsupervised learning algorithms: the only algorithm that is asked frequently to implement is k means clustering.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Linear Regression:
+
+This algorithm sets  the base of all the base of all the deep learning algorithms like ann ,cnn  in the concepts lik the gradient descent,cost function,lost fnction,optimizer etc…
+
+
+
+
+Missing above text:Linear Regression meeds the relationships b/w
+
+Qustions in basic assumption:
+Q)what if your data is not normally distubuted?
+1.i will apply some transformative techniques like log normal transformation,box cross exponential transform, power  log transformation etc.. 
+
+If the assumptions made above are not taken care of then  then we have to apply a lot of feature engineering techniques.. after when all the assumptions are made ok then the linear regression will perform good 
+
+Ques in in advantages:
+Regularisation:is ridge and lasso reguralizaton
+.
+
+
+I****
+Q in disadvantages:(asked in tredence)
+Wha if the features are corelatd to each other so much  then follow the  third link mentioned above:
+
+Note:q)in ANN or cnn do we need to do Feature scaling ?
+A)YES,we need to do feature scaling techniques like normalization,min max scaler etc … iis definitely required When there is involvement of the ,gradient descent,loss function,optimisers,,, if not then your gradient  descent will be pretty much bigger and to come to that optimial minima it my take so much tiime  
+
+1.when there is no feature scaling done on the features then gradient descent would be much bigger curve.and once features are scald down then to reach to that local or global minima it may take ver very less time.
+Q)why feature scaling is required :bcz that will help us to reach the global minima or local minima to reach very speed
+
+Q)I*** (Tredence)
+how d o you overcome to missing values in linear regression:even though we replace the missing values in the linear regression then also there are many missing values and hence w go for thr feature engineering techniqques heenc elinear regression do not handle missing values  nd we have to handle them with the help of feature eengineering.
+
+Q)impact of  outliers: (tredence)
+We use ridge and lasso to reduce the impact of outliers 
+
+Q)solution for multicolleniarity:
+ridge and lasso regression:(when the dataset is very large)
+When the dataset is small:we just create a heatmap and drop down the fatures having multinearity greater than 90% for the rest  or if we think the data is been lost then we go for the ridge and lasso regression 
+Performe hyperparameter tuning:ridge and lasso regression.
+
+
+
+
+
+Q)Grdaiet descent vs schocastic gradient descent:
+ Diff 1 --->Gradient descent takes all the data point into consideration to update the weight during back propagation to minimize the loss function..................whereas stochastic gradient descent considers only one data point at a time for weight updation. Diff 2 ----> In gradient descent convergence towards the minima is fast..............where as in stochastic gradient descent convergence is slow. Diff3-------> Since in gradient descent whole data points are loaded and use for calculation, computation get slow.........where as stochastic gradient descent is comparatively fast.
+
+
+
+

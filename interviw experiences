@@ -69,5 +69,34 @@ Vlaue labs:
 
 what are the parameters in the image data.(resolution,pixel,contrast,brightness etc)
 
+Tredence----
+SELECT DISTINCT column, agg_func (column_or_expression), …
+FROM mytable
+    JOIN another_table
+      on mytable.column = another_table.column
+    WHERE constraint_expression
+    GROUP BY column
+    HAVING constraint_expression
+    ORDER BY column asc/desc
+    LIMIT count OFFSET count;
+
+[11:56] Shreyas Kale
+a = [-4,-2,0,2,4]
+[x**2 for x in a]
+[11:57] Shreyas Kale
+print("Hello {name1} and {name2}".format(name1='foo', name2='bin'))
+
+latent space
+
+[11:56] Shreyas Kale
+a = [-4,-2,0,2,4]
+[x**2 for x in a]
+[11:57] Shreyas Kale
+print("Hello {name1} and {name2}".format(name1='foo', name2='bin'))
+
+quantization techiniques i.e the fine tuning techniques in the llms
+
+
+
 
 

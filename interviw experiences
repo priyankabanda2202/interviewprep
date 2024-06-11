@@ -106,4 +106,18 @@ build a ml model using xgboos or the random forest fo the loan predictin app and
 
 
 
+Q)
+what are the evaluation metrics for clssfiaction task:accuracy score,precision,recall,f1score,loss,confusion matrix (concentrate on these)
+
+for the nlp task we can consider -fro lnguge translation wego for bleu score for text summarizer we can consider -rogue score
+
+
+
+
+
+
+
+
+
+
 
